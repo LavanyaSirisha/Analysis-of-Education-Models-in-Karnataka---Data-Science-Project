@@ -12,7 +12,9 @@ Data was collected from the **Unified District Information System for Education*
 ## Machine Learning Algorithms Used
 
 Linear Regression - To predict the total number of schools based on the infrastructure equipment supplied for schools.
+
 Agglomerative Clustering - Finding the clusters of districts year-wise using the school management feature from the combined dataset.
+
 TSNE - For visualizing the cluster of districts ( with different top school categories).
 
 LINEAR REGRESSION 
