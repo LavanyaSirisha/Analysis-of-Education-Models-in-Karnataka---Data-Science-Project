@@ -18,8 +18,9 @@ Agglomerative Clustering - Finding the clusters of districts year-wise using the
 TSNE - For visualizing the cluster of districts ( with different top school categories).
 
 LINEAR REGRESSION 
-![repo-settings-image](images/2.png)
 
+<img width="539" alt="rename_screenshot" src="images/2.png">
 TSNE
-<img width="1039" alt="rename_screenshot" src="images/1.png">
+
+<img width="539" alt="rename_screenshot" src="images/1.png">
 
