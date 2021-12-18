@@ -1,0 +1,264 @@
+Location,Rural/Urban,School_Category ,School_Management,School_Type ,Total_No_of_Schools,Separate Room for Headmaster,Land Available,Electricity ,Functional Electricity,Solar Panel,Playground,Library or Reading Corner or Book Bank,Librarian,Newspaper,Kitchen Garden,Furniture,Boy's Toilet,Functional Boy's Toilet,Girl's Toilet,Functional Girl's Toilet,Toilet Facility,Functional Toilet Facility,Functional Urinal Boy's,Functional Urinal Girl's,Functional Urinal,Functional Toilet and Urinal,Drinking Water,Functional Drinking Water ,Water Purifier,Rain Water Harvesting,Water Tested,Handwash,Incinerator,"WASH Facility(Drinking Water, Toilet and Handwash)",Ramps,Hand-Rails,Medical Checkup,Complete Medical Checkup,Internet,Computer Available
+Karnataka,Rural,HSS (VI-XII),Central Tibetan School,Co-Ed,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,1
+Karnataka,Rural,SS (I-X),Central Tibetan School,Co-Ed,3,3,2,3,3,0,2,3,1,2,0,3,3,3,3,3,3,3,3,2,3,3,3,3,2,1,2,3,0,3,2,2,2,1,2,2
+Karnataka,Rural,HSS (I-XII),Central Tibetan School,Co-Ed,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,1,1,1,1
+Karnataka,Urban,HSS (IX-XII),Department of Education,Co-Ed,147,106,108,147,147,31,123,140,6,126,59,136,146,145,146,146,147,147,120,117,129,129,147,145,92,62,88,128,62,128,101,74,147,108,66,145
+Karnataka,Urban,HSS (XI-XII),Department of Education,Co-Ed,177,122,74,175,175,14,126,154,17,137,11,171,165,163,175,174,175,174,103,102,115,114,177,159,41,27,33,153,24,150,68,34,171,135,42,98
+Karnataka,Rural,SS (IX-X),Department of Education,Co-Ed,2877,1789,2310,2871,2869,530,2572,2767,184,2373,1203,2739,2864,2843,2867,2850,2874,2857,2238,2240,2358,2357,2872,2756,1526,1087,1538,2442,1381,2425,1778,1310,2876,1943,496,2758
+Karnataka,Urban,SS (IX-X),Department of Education,Co-Ed,415,285,239,415,415,73,348,395,24,335,144,399,412,412,415,415,415,415,316,311,345,345,414,409,262,156,246,370,183,370,240,162,414,292,123,395
+Karnataka,Rural,UPS (I-VIII),Department of Education,Boys,263,135,155,263,263,37,212,251,14,177,74,228,263,260,0,0,263,260,190,0,190,190,262,232,135,100,145,193,54,192,196,171,263,156,18,169
+Karnataka,Urban,UPS (I-VIII),Department of Education,Girls,128,67,45,128,128,16,95,124,10,84,43,117,0,0,128,128,128,128,0,95,95,95,128,121,70,41,62,108,49,108,84,69,128,77,4,74
+Karnataka,Urban,HSS (IX-XII),Department of Education,Girls,47,37,21,47,47,14,40,46,1,39,16,45,0,0,47,47,47,47,0,31,31,31,47,46,35,19,24,42,23,42,30,21,47,35,17,44
+Karnataka,Urban,SS (I-X),Department of Education,Co-Ed,62,38,38,61,61,8,52,61,5,47,17,56,61,61,62,61,62,61,45,44,48,47,62,59,38,26,35,55,35,54,41,36,62,40,11,43
+Karnataka,Urban,SS (VI-X),Department of Education,Co-Ed,35,27,20,35,35,6,29,35,3,28,13,34,35,35,35,35,35,35,33,27,33,33,35,33,26,19,20,32,26,32,25,23,35,22,14,32
+Karnataka,Urban,HSS (XI-XII),Department of Education,Girls,38,27,17,38,38,4,26,31,2,29,2,38,0,0,38,37,37,37,0,23,23,23,38,34,8,2,5,36,2,35,22,13,37,32,7,17
+Karnataka,Urban,SS (IX-X),Department of Education,Girls,76,44,43,76,76,16,62,71,6,61,29,74,0,0,76,76,76,76,0,63,63,63,75,73,45,30,43,62,36,62,51,37,76,48,18,73
+Karnataka,Rural,HSS (XI-XII),Department of Education,Girls,10,6,3,10,10,0,4,8,0,7,0,10,0,0,10,10,10,10,0,7,7,7,10,8,0,1,0,7,0,7,1,1,9,9,1,3
+Karnataka,Urban,SS (IX-X),Department of Education,Boys,16,10,12,16,16,6,15,14,3,12,9,15,16,16,0,0,16,16,11,0,11,11,16,12,7,7,11,12,6,12,7,6,15,7,4,15
+Karnataka,Urban,HSS (XI-XII),Department of Education,Boys,8,6,2,8,8,0,8,8,2,7,1,8,8,8,0,0,8,8,5,0,5,5,8,6,1,0,1,7,0,7,6,6,8,7,2,1
+Karnataka,Rural,SS (IX-X),Department of Education,Boys,9,5,7,9,9,1,8,7,1,8,1,9,9,8,0,0,9,8,5,0,5,4,9,7,3,2,2,8,2,7,5,4,9,7,4,9
+Karnataka,Rural,HSS (I-XII),Department of Education,Co-Ed,4,2,4,4,4,1,4,4,0,2,2,4,3,3,4,4,4,4,3,3,3,3,4,3,0,1,3,4,2,4,3,3,4,4,2,3
+Karnataka,Urban,HSS (IX-XII),Department of Education,Boys,10,7,7,10,10,3,9,10,1,10,3,10,10,10,0,0,10,10,9,0,9,9,10,9,5,3,4,6,1,6,5,3,10,6,2,10
+Karnataka,Rural,HSS (XI-XII),Department of Education,Boys,4,3,3,4,4,0,3,3,0,3,0,4,4,4,0,0,4,4,2,0,2,2,4,2,2,1,1,3,0,3,2,1,4,3,2,2
+Karnataka,Urban,HSS (I-XII),Department of Education,Co-Ed,2,0,0,2,2,0,2,2,0,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,0,0,1,1,0,1,2,2,2,2,0,1
+Karnataka,Rural,HSS (VI-XII),Department of Education,Co-Ed,3,2,3,3,3,1,3,3,0,3,2,3,3,3,3,3,3,3,1,1,1,1,3,3,2,1,2,3,2,3,2,1,3,3,0,3
+Karnataka,Rural,HSS (IX-XII),Department of Education,Girls,1,0,1,1,1,0,1,1,0,1,0,1,0,0,1,1,1,1,0,1,1,1,1,1,0,0,0,1,0,1,1,1,1,1,0,1
+Karnataka,Rural,SS (VI-X),Department of Education,Girls,1,0,0,1,1,0,1,1,0,1,0,1,0,0,1,1,1,1,0,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1
+Karnataka,Rural,HSS (XI-XII),Department of Education,Co-Ed,373,202,202,367,366,6,252,321,9,248,7,358,361,356,368,364,369,365,223,224,236,236,366,298,74,56,67,297,31,291,176,105,354,274,47,150
+Karnataka,Rural,PS (I-V),Department of Education,Girls,34,4,17,34,34,5,30,31,3,20,9,24,0,0,34,34,34,34,0,27,27,27,34,33,11,10,15,26,17,26,24,19,34,24,0,7
+Karnataka,Rural,PS (I-V),Department of Education,Co-Ed,19302,1848,8312,19203,19158,2424,13666,17987,1253,10051,7206,14033,18851,18709,19175,19059,19249,19151,12099,11942,12788,12767,19255,18102,10527,7410,10153,14382,5969,14273,10046,8436,19257,11536,706,1647
+Karnataka,Urban,PS (I-V),Department of Education,Co-Ed,1714,271,579,1696,1691,207,1170,1586,96,801,491,1225,1658,1650,1695,1688,1704,1696,954,932,1015,1014,1709,1623,943,586,874,1248,496,1240,770,615,1711,976,74,170
+Karnataka,Rural,SS (I-X),Department of Education,Co-Ed,444,245,313,443,443,91,373,422,31,327,166,402,441,438,441,439,443,441,318,319,332,331,443,425,220,163,240,355,222,353,320,294,444,290,45,319
+Karnataka,Rural,UPS (I-VIII),Department of Education,Girls,297,124,146,297,297,52,240,284,22,213,94,275,0,0,297,296,296,294,0,226,226,223,297,275,153,117,163,232,127,230,186,162,297,182,30,180
+Karnataka,Rural,UPS (I-VIII),Department of Education,Co-Ed,17959,6000,10155,17933,17915,3042,13940,17153,1310,12202,7186,16159,17801,17689,17893,17817,17942,17874,12880,12699,13481,13452,17913,17098,10185,7373,10317,14417,6404,14336,12233,10855,17936,11820,899,8363
+Karnataka,Urban,UPS (I-VIII),Department of Education,Co-Ed,3073,1452,1264,3070,3067,512,2293,2929,210,2007,991,2731,3043,3034,3064,3058,3069,3062,2125,2023,2234,2233,3068,2979,1916,1174,1790,2521,1155,2514,1856,1552,3070,1934,216,1591
+Karnataka,Urban,UPS (I-VIII),Department of Education,Boys,87,49,42,87,87,11,70,82,7,58,27,78,87,87,0,0,87,87,68,0,68,68,87,82,55,31,50,76,24,76,60,51,86,58,4,50
+Karnataka,Urban,UPS (VI-VIII),Department of Education,Co-Ed,18,11,9,18,18,6,15,18,1,13,9,17,18,18,18,18,18,18,13,14,14,14,18,18,14,5,12,16,10,16,5,4,18,11,3,10
+Karnataka,Rural,SS (VI-X),Department of Education,Co-Ed,40,34,34,40,40,9,35,40,6,36,13,38,40,40,40,40,40,40,38,31,38,38,40,39,30,10,19,36,28,36,28,22,40,23,22,36
+Karnataka,Rural,UPS (VI-VIII),Department of Education,Girls,56,27,27,56,56,34,38,52,5,42,31,47,0,0,56,56,56,56,0,25,25,25,56,52,45,23,39,52,40,52,34,30,56,37,28,49
+Karnataka,Rural,HSS (IX-XII),Department of Education,Co-Ed,499,337,406,499,499,109,453,484,33,425,261,485,494,491,499,499,499,499,385,390,414,414,498,482,325,223,327,442,267,441,311,229,499,355,123,495
+Karnataka,Urban,HSS (VI-XII),Department of Education,Co-Ed,2,2,2,2,2,0,2,1,1,2,0,2,2,2,2,2,2,2,1,1,1,1,2,2,2,2,2,1,2,1,1,1,2,1,1,2
+Karnataka,Urban,UPS (VI-VIII),Department of Education,Girls,13,8,10,13,13,6,12,13,4,12,7,13,0,0,13,13,13,13,0,5,5,5,13,12,10,7,9,12,9,12,9,8,13,9,8,11
+Karnataka,Urban,PS (I-V),Department of Education,Boys,5,0,1,5,5,0,3,3,0,3,2,2,5,5,0,0,5,5,4,0,4,4,5,4,2,0,0,4,0,4,3,3,5,4,0,0
+Karnataka,Rural,SS (IX-X),Department of Education,Girls,37,26,22,37,37,6,31,36,0,25,12,35,0,0,37,37,37,37,0,33,33,33,37,36,20,18,20,30,18,30,25,21,37,22,6,36
+Karnataka,Urban,PS (I-V),Department of Education,Girls,5,0,2,5,5,2,4,4,0,2,1,3,0,0,5,5,5,5,0,3,3,3,5,5,4,3,2,3,2,3,3,3,5,2,0,0
+Karnataka,Rural,UPS (VI-VIII),Department of Education,Co-Ed,24,9,11,24,24,3,20,24,2,20,6,20,24,24,24,24,24,24,16,18,18,18,23,22,12,8,13,23,8,22,18,15,24,14,0,14
+Karnataka,Rural,HSS (IX-XII),Department of Education,Boys,1,1,1,1,1,1,1,1,0,1,0,1,1,1,0,0,1,1,1,0,1,1,1,1,1,0,1,1,0,1,0,0,1,1,0,1
+Karnataka,Urban,HSS (VI-XII),Department of Education,Boys,1,1,1,1,1,0,1,1,0,1,0,1,1,1,0,0,1,1,1,0,1,1,1,1,1,0,1,1,0,1,1,1,1,1,0,1
+Karnataka,Rural,PS (I-V),Department of Education,Boys,1,0,1,1,1,1,1,1,0,1,1,1,1,1,0,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0
+Karnataka,Urban,UPS (VI-VIII),Department of Education,Boys,1,1,1,1,1,0,1,1,0,1,1,0,1,1,0,0,1,1,1,0,1,1,1,1,0,1,1,1,0,1,0,0,1,0,0,1
+Karnataka,Urban,UPS (I-VIII),Government Aided,Co-Ed,1448,1062,631,1447,1447,311,1128,1336,188,995,557,1281,1445,1443,1448,1446,1448,1447,1083,1016,1091,1091,1448,1412,1101,809,1047,1248,762,1247,487,311,1446,850,484,836
+Karnataka,Urban,HSS (IX-XII),Government Aided,Co-Ed,83,70,55,83,83,25,70,81,17,71,40,78,83,83,83,83,83,83,74,70,75,75,83,80,73,51,68,77,46,77,31,18,83,56,52,71
+Karnataka,Urban,PS (I-V),Government Aided,Girls,6,3,2,6,6,0,4,6,1,3,1,5,0,0,6,6,6,6,0,6,6,6,6,6,6,2,4,5,4,5,1,1,6,3,5,4
+Karnataka,Urban,PS (I-V),Government Aided,Co-Ed,95,51,38,95,94,19,68,82,9,56,38,90,94,94,95,95,95,95,72,70,74,74,95,91,75,54,67,75,46,75,36,20,95,54,24,30
+Karnataka,Urban,SS (IX-X),Government Aided,Boys,36,34,28,36,36,7,36,34,9,30,18,33,36,36,0,0,35,35,33,0,33,33,35,35,27,20,28,35,12,33,15,10,36,24,22,30
+Karnataka,Urban,SS (VI-X),Government Aided,Girls,4,3,1,4,4,0,4,4,3,3,0,3,0,0,4,4,4,4,0,2,2,2,4,4,4,2,2,4,4,4,0,0,4,3,2,3
+Karnataka,Urban,UPS (VI-VIII),Government Aided,Boys,2,2,0,2,2,1,2,2,0,2,1,2,2,2,0,0,2,2,1,0,1,1,2,2,2,2,2,2,2,2,1,0,2,1,2,2
+Karnataka,Urban,UPS (VI-VIII),Government Aided,Co-Ed,23,16,10,23,23,4,18,21,4,18,11,23,23,23,23,23,23,23,21,20,21,21,23,23,19,12,14,22,8,22,5,4,23,15,13,15
+Karnataka,Rural,UPS (VI-VIII),Government Aided,Co-Ed,28,14,16,28,28,3,18,26,1,19,9,25,28,28,28,28,28,28,21,22,22,22,28,26,19,15,18,22,9,22,8,6,28,17,2,7
+Karnataka,Rural,HSS (IX-XII),Government Aided,Co-Ed,153,117,113,153,153,36,124,143,20,119,81,145,153,153,153,153,153,153,134,129,134,134,153,139,114,87,115,132,80,132,60,43,152,91,70,139
+Karnataka,Rural,SS (VI-X),Government Aided,Boys,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Karnataka,Urban,HSS (VI-XII),Government Aided,Co-Ed,6,6,5,6,6,2,6,6,0,6,4,5,6,6,6,6,6,6,6,5,6,6,6,6,6,6,6,5,4,5,5,4,6,3,5,6
+Karnataka,Rural,SS (I-X),Government Aided,Co-Ed,12,7,7,12,12,6,8,12,2,8,7,9,12,12,12,12,12,12,8,8,8,8,12,12,11,8,11,7,6,7,6,4,12,4,5,11
+Karnataka,Rural,SS (IX-X),Government Aided,Girls,37,30,29,37,37,5,33,32,2,33,21,36,0,0,37,37,36,36,0,29,29,28,37,35,22,15,22,32,20,31,14,5,37,23,11,34
+Karnataka,Urban,HSS (IX-XII),Government Aided,Girls,17,14,13,17,17,2,16,15,4,13,12,15,0,0,17,17,17,17,0,13,13,13,17,17,16,10,16,17,11,17,8,3,17,10,14,15
+Karnataka,Urban,HSS (XI-XII),Government Aided,Girls,34,27,13,34,34,1,29,34,5,31,6,30,0,0,34,34,34,34,0,27,27,27,34,32,15,13,15,34,7,34,17,13,33,27,16,19
+Karnataka,Urban,UPS (I-VIII),Government Aided,Girls,22,21,12,22,22,10,20,21,6,21,16,19,0,0,22,22,22,22,0,11,11,11,22,22,22,18,22,20,17,20,3,1,22,10,14,18
+Karnataka,Urban,SS (I-X),Government Aided,Boys,5,5,3,5,5,1,5,5,0,5,1,5,5,5,0,0,5,5,5,0,5,5,5,5,3,2,4,5,2,5,1,0,5,4,5,5
+Karnataka,Urban,HSS (I-XII),Government Aided,Girls,1,1,1,1,1,0,1,1,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1
+Karnataka,Rural,SS (IX-X),Government Aided,Boys,7,5,5,7,7,2,6,7,3,6,5,7,7,7,0,0,7,7,6,0,6,6,7,6,6,6,6,6,3,6,2,1,7,4,4,7
+Karnataka,Urban,UPS (I-VIII),Government Aided,Boys,8,8,4,8,8,2,8,8,3,6,6,7,8,8,0,0,8,8,8,0,8,8,8,8,7,6,6,8,4,8,3,3,8,4,7,7
+Karnataka,Urban,SS (VI-X),Government Aided,Boys,1,1,0,1,1,0,1,1,1,1,0,1,1,1,0,0,1,1,0,0,0,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1
+Karnataka,Rural,HSS (XI-XII),Government Aided,Girls,2,2,1,2,2,0,1,2,1,2,0,2,0,0,2,2,2,2,0,2,2,2,2,2,1,0,1,2,1,2,0,0,2,2,1,1
+Karnataka,Rural,UPS (VI-VIII),Government Aided,Boys,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,1
+Karnataka,Rural,HSS (XI-XII),Government Aided,Co-Ed,242,211,150,242,242,16,209,234,27,210,29,234,242,242,242,242,242,242,200,188,200,200,242,213,106,76,105,219,71,219,87,64,235,175,75,111
+Karnataka,Urban,HSS (XI-XII),Government Aided,Co-Ed,328,269,156,328,328,25,279,317,78,282,33,317,324,322,326,325,328,326,248,246,253,253,328,300,150,104,132,305,98,303,135,92,315,245,123,146
+Karnataka,Rural,PS (I-V),Government Aided,Co-Ed,104,32,53,102,102,11,57,84,6,43,30,70,97,97,99,99,99,99,56,56,59,59,103,87,58,38,59,72,29,69,25,15,104,56,3,14
+Karnataka,Rural,SS (IX-X),Government Aided,Co-Ed,2069,1579,1615,2068,2068,484,1759,1956,207,1636,1107,1930,2067,2065,2068,2066,2069,2067,1725,1685,1748,1748,2069,1991,1435,1079,1432,1795,1115,1793,769,485,2065,1299,635,1715
+Karnataka,Urban,SS (IX-X),Government Aided,Co-Ed,1058,873,631,1058,1058,188,913,1005,155,849,447,981,1057,1057,1058,1058,1057,1057,867,798,882,881,1058,1041,825,589,773,952,580,951,390,232,1058,680,550,860
+Karnataka,Rural,SS (VI-X),Government Aided,Co-Ed,15,13,13,15,15,3,14,14,0,13,5,15,15,15,15,15,15,15,14,13,14,14,15,15,10,4,10,14,3,14,9,6,14,12,6,14
+Karnataka,Rural,UPS (I-VIII),Government Aided,Co-Ed,1096,724,709,1092,1092,226,877,1016,133,783,532,973,1094,1094,1094,1094,1095,1095,872,841,885,885,1095,1041,795,548,780,934,550,934,496,326,1093,673,289,615
+Karnataka,Urban,SS (I-X),Government Aided,Girls,9,7,6,9,9,5,9,9,0,7,6,8,0,0,9,9,9,9,0,7,7,7,9,9,8,5,8,9,6,9,4,3,9,7,6,9
+Karnataka,Urban,SS (IX-X),Government Aided,Girls,189,170,103,189,189,39,169,181,31,160,92,175,0,0,189,189,189,189,0,137,137,137,189,187,147,100,134,172,115,172,52,27,189,111,111,160
+Karnataka,Urban,SS (VI-X),Government Aided,Co-Ed,21,21,16,21,21,7,20,21,9,20,7,20,21,21,21,21,21,21,18,18,18,18,21,21,20,12,19,20,15,20,14,9,20,14,16,20
+Karnataka,Urban,UPS (VI-VIII),Government Aided,Girls,5,4,2,5,5,1,5,5,2,4,1,4,0,0,5,5,5,5,0,4,4,4,5,5,5,2,5,5,3,5,3,3,5,4,5,5
+Karnataka,Urban,SS (I-X),Government Aided,Co-Ed,53,41,27,53,53,8,36,46,6,41,22,49,53,53,53,53,53,53,43,40,44,44,53,50,43,32,39,44,28,44,24,14,53,26,26,43
+Karnataka,Urban,HSS (I-XII),Government Aided,Co-Ed,10,9,7,10,10,2,10,9,2,8,1,10,10,10,10,10,10,10,9,8,9,9,10,10,7,5,6,10,7,10,1,1,10,6,8,10
+Karnataka,Rural,UPS (I-VIII),Government Aided,Girls,3,3,2,3,3,0,3,2,0,2,1,3,0,0,3,3,3,3,0,2,2,2,3,3,3,2,2,2,0,2,1,0,3,1,3,3
+Karnataka,Rural,HSS (I-XII),Government Aided,Co-Ed,1,1,1,1,1,0,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,1,0,1,0,0,1
+Karnataka,Urban,HSS (I-XII),Government Aided,Boys,1,1,1,1,1,0,1,1,0,1,1,1,1,1,0,0,1,1,1,0,1,1,1,1,1,0,1,1,0,1,1,0,1,1,0,1
+Karnataka,Rural,SS (I-X),Government Aided,Boys,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,0,1,1,1,0,1,1,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+Karnataka,Rural,HSS (VI-XII),Government Aided,Co-Ed,2,2,2,2,2,1,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,0,2,2
+Karnataka,Rural,HSS (XI-XII),Government Aided,Boys,1,1,0,1,1,0,1,1,0,1,0,1,1,1,0,0,1,1,1,0,1,1,1,1,0,0,0,1,0,1,0,0,1,1,0,0
+Karnataka,Rural,UPS (I-VIII),Government Aided,Boys,2,1,1,2,2,0,2,2,0,2,2,2,2,2,0,0,2,2,2,0,2,2,2,2,2,2,2,2,0,2,2,1,2,2,1,1
+Karnataka,Urban,HSS (IX-XII),Government Aided,Boys,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,0,1,1,1,1,1,1,1,1,0,1,0,0,1,0,1,1
+Karnataka,Urban,PS (I-V),Government Aided,Boys,1,1,1,1,1,0,1,1,0,1,0,1,1,1,0,0,1,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,0
+Karnataka,Rural,HSS (VI-XII),Jawahar Navodaya Vidyalaya ,Co-Ed,28,20,19,28,28,17,23,26,17,21,16,20,28,28,28,28,28,28,26,25,26,26,28,28,25,18,26,24,20,24,14,13,19,13,27,26
+Karnataka,Urban,UPS (VI-VIII),Jawahar Navodaya Vidyalaya ,Co-Ed,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Karnataka,Rural,SS (VI-X),Jawahar Navodaya Vidyalaya ,Co-Ed,2,2,2,2,2,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Karnataka,Rural,SS (I-X),Kendriya Vidyalaya / Central School,Co-Ed,8,8,5,7,7,1,8,7,6,7,3,7,8,8,8,8,8,8,6,6,6,6,8,8,5,5,6,8,3,8,4,4,7,3,7,8
+Karnataka,Urban,SS (I-X),Kendriya Vidyalaya / Central School,Co-Ed,14,13,8,13,13,2,13,13,8,13,6,13,14,14,14,14,14,14,11,10,11,11,14,13,13,7,13,13,5,13,11,11,12,6,12,13
+Karnataka,Urban,UPS (I-VIII),Kendriya Vidyalaya / Central School,Co-Ed,1,1,0,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1
+Karnataka,Urban,PS (I-V),Kendriya Vidyalaya / Central School,Co-Ed,1,1,1,1,1,0,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,0,1,1
+Karnataka,Urban,HSS (I-XII),Kendriya Vidyalaya / Central School,Co-Ed,20,20,16,20,20,6,20,20,16,19,6,19,20,20,20,20,20,20,20,19,20,20,20,20,20,17,18,20,15,20,19,16,19,14,17,20
+Karnataka,Rural,HSS (I-XII),Kendriya Vidyalaya / Central School,Co-Ed,6,5,3,6,6,0,6,6,5,6,2,5,6,6,6,6,6,6,6,6,6,6,6,6,5,4,5,6,3,6,4,4,6,4,6,6
+Karnataka,Rural,UPS (I-VIII),Kendriya Vidyalaya / Central School,Co-Ed,1,0,0,0,0,0,0,1,0,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,0,0,0,0,1,1
+Karnataka,Urban,SS (IX-X),Local body,Co-Ed,20,19,8,20,20,2,14,18,3,9,2,20,20,20,20,20,20,20,13,14,14,14,20,20,15,14,11,19,10,19,4,2,20,15,11,18
+Karnataka,Urban,PS (I-V),Local body,Co-Ed,2,1,1,2,2,1,1,2,0,1,0,2,2,2,2,2,2,2,1,1,1,1,2,2,2,1,1,2,2,2,1,1,2,1,1,1
+Karnataka,Urban,HSS (I-XII),Local body,Co-Ed,2,1,0,2,2,1,1,2,0,1,0,1,2,2,2,2,2,2,0,0,0,0,2,2,1,1,2,1,1,1,0,0,2,1,1,2
+Karnataka,Urban,HSS (IX-XII),Local body,Co-Ed,6,6,4,6,6,2,5,5,1,3,2,6,6,6,6,6,6,6,3,3,3,3,6,6,5,4,5,5,3,5,1,1,5,2,2,5
+Karnataka,Urban,HSS (XI-XII),Local body,Girls,5,4,1,5,5,0,4,5,0,3,0,5,0,0,5,5,5,5,0,2,2,2,5,5,1,2,1,5,2,5,0,0,3,3,0,1
+Karnataka,Urban,SS (IX-X),Local body,Girls,4,4,2,4,4,0,4,4,0,3,1,4,0,0,4,4,4,4,0,4,4,4,4,4,3,3,3,4,2,4,0,0,4,3,3,4
+Karnataka,Rural,SS (IX-X),Local body,Boys,1,0,0,1,1,0,0,0,0,0,0,1,1,1,0,0,1,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,1,1
+Karnataka,Urban,SS (VI-X),Local body,Co-Ed,2,2,2,2,2,0,2,2,0,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,1,1,1,1,2,2,2,2,0,2
+Karnataka,Urban,UPS (I-VIII),Local body,Co-Ed,15,10,6,14,14,1,9,10,1,5,6,14,15,15,15,15,15,15,6,7,7,7,15,15,11,8,8,11,7,11,4,3,15,9,0,8
+Karnataka,Urban,HSS (VI-XII),Local body,Co-Ed,1,1,1,1,1,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,1,1,1,1,1,1,1
+Karnataka,Urban,HSS (XI-XII),Local body,Co-Ed,6,5,1,6,6,1,4,6,1,4,1,5,5,5,6,6,6,6,1,1,1,1,6,6,4,4,4,6,3,6,1,0,3,2,1,4
+Karnataka,Urban,SS (I-X),Local body,Co-Ed,2,1,1,2,2,0,1,1,0,0,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,0,1,0,0,2,1,1,2
+Karnataka,Urban,SS (VI-X),Local body,Boys,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,0,1,1,1,1,1,1,1,1,0,1,0,0,1,1,0,1
+Karnataka,Urban,HSS (IX-XII),Local body,Girls,3,3,2,3,3,0,3,3,0,2,0,3,0,0,3,3,3,3,0,2,2,2,3,3,3,3,3,3,1,3,2,1,3,3,1,3
+Karnataka,Rural,UPS (I-VIII),Local body,Co-Ed,1,1,0,1,1,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1,0,0,0
+Karnataka,Urban,PS (I-V),Madarsa recognized (by Wakf board/Madarsa Board) ,Co-Ed,2,1,0,2,2,0,2,2,0,2,0,2,2,2,2,2,2,2,1,0,1,1,2,1,1,0,1,1,0,1,0,0,1,0,0,0
+Karnataka,Urban,SS (VI-X),Madarsa recognized (by Wakf board/Madarsa Board) ,Co-Ed,2,0,0,2,2,0,1,1,0,1,1,2,2,2,2,2,2,2,1,0,1,1,2,2,0,0,1,1,1,1,1,1,2,1,0,1
+Karnataka,Urban,SS (I-X),Madarsa recognized (by Wakf board/Madarsa Board) ,Co-Ed,2,1,1,2,2,0,1,2,2,1,1,2,2,2,2,2,2,2,1,1,1,1,2,2,1,1,1,2,1,2,0,0,1,0,0,2
+Karnataka,Rural,PS (I-V),Madarsa recognized (by Wakf board/Madarsa Board) ,Boys,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,0,1,1,0,0,0,0,1,0,0,1,0,1,1,1,0,0,1,0,0,1
+Karnataka,Urban,SS (I-X),Madarsa recognized (by Wakf board/Madarsa Board) ,Boys,1,1,1,1,1,0,1,1,0,0,0,1,1,1,0,0,1,1,0,0,0,0,1,1,1,0,0,1,0,1,0,0,1,1,1,1
+Karnataka,Urban,PS (I-V),Madarsa unrecognized,Boys,1,1,0,1,1,0,1,1,0,0,0,1,1,1,0,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0
+Karnataka,Rural,SS (VI-X),Madarsa unrecognized,Co-Ed,1,1,0,1,1,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0
+Karnataka,Urban,SS (VI-X),Madarsa unrecognized,Girls,1,1,1,1,1,1,1,1,0,0,0,1,0,0,1,1,1,1,0,0,0,0,1,1,1,1,1,1,1,1,0,0,0,0,1,0
+Karnataka,Rural,UPS (I-VIII),Madarsa unrecognized,Boys,1,0,1,1,1,0,1,1,0,0,0,0,1,1,0,0,1,1,1,0,1,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0
+Karnataka,Urban,PS (I-V),Madarsa unrecognized,Co-Ed,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,0,0,0,1,1,1,1,1,1,1,1,0,0,1,0,0,0
+Karnataka,Rural,SS (I-X),Other Central Govt. Schools,Co-Ed,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,0,1,1
+Karnataka,Urban,HSS (I-XII),Other Central Govt. Schools,Co-Ed,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1
+Karnataka,Rural,HSS (I-XII),Other Central Govt. Schools,Co-Ed,2,2,2,2,2,1,1,2,2,1,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,2,2,0,0,2,0,2,2
+Karnataka,Rural,UPS (VI-VIII),Other Govt. managed schools,Co-Ed,20,3,3,18,18,0,8,12,0,7,5,13,19,19,20,20,20,20,10,9,10,10,20,20,11,5,16,11,6,11,5,1,15,4,4,12
+Karnataka,Urban,UPS (VI-VIII),Other Govt. managed schools,Co-Ed,25,5,7,22,22,1,13,13,1,9,2,23,25,25,25,25,25,25,10,10,10,10,25,25,7,3,13,18,6,18,4,1,25,11,1,16
+Karnataka,Rural,SS (VI-X),Other Govt. managed schools,Girls,4,1,0,4,4,2,4,4,1,4,1,4,0,0,4,4,4,4,0,4,4,4,4,3,4,2,3,4,3,4,2,1,3,1,3,4
+Karnataka,Rural,SS (VI-X),Other Govt. managed schools,Co-Ed,21,11,9,19,19,6,12,13,1,8,9,18,21,21,21,21,21,21,13,12,13,13,21,21,14,6,15,12,10,12,7,6,16,7,6,11
+Karnataka,Rural,HSS (XI-XII),Other Govt. managed schools,Co-Ed,2,1,0,2,2,0,1,2,0,2,0,2,2,2,2,2,2,2,0,0,0,0,2,2,1,1,1,2,1,2,0,0,1,0,1,1
+Karnataka,Urban,SS (VI-X),Other Govt. managed schools,Co-Ed,34,7,2,29,29,1,16,18,1,10,2,29,34,34,34,34,34,34,18,18,18,18,34,31,18,9,21,19,4,19,15,11,26,8,4,13
+Karnataka,Urban,SS (VI-X),Other Govt. managed schools,Girls,1,0,0,1,1,0,0,0,0,0,0,1,0,0,1,1,1,1,0,1,1,1,1,1,1,0,0,1,0,1,0,0,1,0,0,1
+Karnataka,Rural,HSS (XI-XII),Other Govt. managed schools,Girls,1,1,0,1,1,0,1,1,0,1,0,1,0,0,1,1,1,1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0
+Karnataka,Rural,PS (I-V),Other Govt. managed schools,Co-Ed,2,2,1,2,2,2,2,2,0,0,1,2,2,2,2,2,2,2,1,2,2,2,2,2,2,2,0,2,1,2,0,0,2,2,2,2
+Karnataka,Urban,HSS (VI-XII),Other Govt. managed schools,Co-Ed,1,1,1,1,1,0,1,1,0,0,0,1,1,1,1,1,1,1,0,0,0,0,1,1,1,0,1,1,0,1,0,0,1,1,0,0
+Karnataka,Rural,SS (VI-X),Other Govt. managed schools,Boys,1,1,0,1,1,1,1,1,0,1,1,1,1,1,0,0,1,1,0,0,0,0,1,1,1,0,1,1,0,1,1,1,1,0,1,1
+Karnataka,Urban,SS (I-X),Other Govt. managed schools,Boys,2,2,1,2,2,1,2,2,0,1,2,1,2,2,0,0,2,2,2,0,2,2,2,2,2,1,1,2,0,2,0,0,2,1,2,1
+Karnataka,Urban,SS (IX-X),Other Govt. managed schools,Girls,1,1,1,1,1,0,1,1,0,1,0,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1
+Karnataka,Urban,UPS (I-VIII),Other Govt. managed schools,Girls,1,1,1,1,1,0,1,1,0,1,0,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1
+Karnataka,Urban,SS (IX-X),Other Govt. managed schools,Co-Ed,5,5,2,5,5,0,4,4,0,3,1,5,5,5,5,5,5,5,5,5,5,5,5,5,3,1,3,3,2,3,2,2,5,2,2,4
+Karnataka,Urban,HSS (XI-XII),Other Govt. managed schools,Co-Ed,1,1,0,1,1,0,1,1,0,1,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0
+Karnataka,Urban,UPS (I-VIII),Other Govt. managed schools,Co-Ed,2,0,0,1,1,0,0,0,0,0,0,2,2,2,2,2,2,2,1,1,1,1,2,2,2,1,2,1,1,1,1,0,1,0,0,0
+Karnataka,Urban,SS (I-X),Other Govt. managed schools,Co-Ed,2,2,2,2,2,2,2,2,0,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,2,1,2,2,2,2,1,2,1
+Karnataka,Urban,PS (I-V),Other Govt. managed schools,Co-Ed,2,1,1,2,2,1,1,1,0,1,1,2,2,2,2,2,2,2,1,2,2,2,2,2,2,1,1,2,0,2,0,0,1,0,0,0
+Karnataka,Rural,SS (IX-X),Other Govt. managed schools,Co-Ed,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,0,0,0,1,1,1,0,1,1,1,1,1,1,1,1,0,1
+Karnataka,Rural,SS (I-X),Private Unaided (Recognized),Co-Ed,1384,1209,1077,1350,1350,468,1260,1327,654,1217,663,1272,1384,1384,1384,1384,1384,1384,1242,1131,1245,1245,1384,1347,1261,996,1213,1305,948,1305,530,391,1228,721,1184,1215
+Karnataka,Urban,SS (I-X),Private Unaided (Recognized),Co-Ed,3031,2696,1789,2967,2965,786,2737,2870,1473,2618,1273,2797,3030,3029,3030,3029,3026,3025,2582,2282,2589,2585,3031,2985,2774,2179,2623,2880,1980,2875,869,590,2714,1344,2617,2677
+Karnataka,Rural,UPS (I-VIII),Private Unaided (Recognized),Co-Ed,3002,2189,2022,2695,2694,716,2393,2648,718,2192,1035,2570,2999,2998,3000,3000,2999,2999,2429,2328,2445,2443,3000,2847,2396,1833,2301,2490,1697,2487,929,655,2348,1389,1612,2177
+Karnataka,Urban,UPS (I-VIII),Private Unaided (Recognized),Co-Ed,3300,2601,1800,3061,3059,767,2637,2905,883,2460,1092,2949,3295,3295,3298,3298,3294,3294,2673,2480,2687,2683,3300,3186,2748,2011,2619,2911,1891,2908,865,570,2674,1411,2151,2502
+Karnataka,Urban,HSS (I-XII),Private Unaided (Recognized),Co-Ed,503,459,253,502,501,149,463,482,295,456,203,459,502,501,503,503,503,502,433,353,436,436,503,501,462,400,452,488,338,487,133,97,448,228,451,454
+Karnataka,Urban,HSS (XI-XII),Private Unaided (Recognized),Girls,112,92,44,110,110,8,92,105,30,88,11,106,0,0,112,112,112,112,0,69,69,69,112,106,42,32,34,107,32,107,48,27,29,14,41,51
+Karnataka,Urban,PS (I-V),Private Unaided (Recognized),Girls,7,6,4,6,6,2,5,6,1,4,3,5,0,0,7,7,7,7,0,4,4,4,7,7,6,2,7,7,3,7,1,0,6,0,6,6
+Karnataka,Urban,SS (VI-X),Private Unaided (Recognized),Co-Ed,55,37,32,53,53,13,46,50,15,42,22,46,55,55,55,55,55,55,47,45,47,47,55,53,47,37,43,51,30,51,15,11,42,21,41,42
+Karnataka,Urban,UPS (VI-VIII),Private Unaided (Recognized),Co-Ed,84,54,42,74,74,22,65,70,20,59,24,72,84,84,84,84,84,84,59,58,61,61,84,81,62,48,60,70,41,70,24,13,65,33,39,52
+Karnataka,Rural,SS (VI-X),Private Unaided (Recognized),Boys,9,8,9,9,9,8,9,9,7,9,8,9,9,9,0,0,9,9,9,0,9,9,9,8,9,8,8,9,3,9,3,2,9,6,9,9
+Karnataka,Rural,HSS (VI-XII),Private Unaided (Recognized),Co-Ed,7,6,6,5,5,3,6,7,3,4,3,7,7,7,7,7,7,7,6,6,6,6,7,6,7,7,7,6,5,6,2,0,5,3,7,6
+Karnataka,Rural,HSS (IX-XII),Private Unaided (Recognized),Co-Ed,42,35,29,39,39,14,34,40,20,32,22,39,42,42,42,42,42,42,39,36,39,39,42,41,39,28,35,37,26,37,11,9,34,20,32,34
+Karnataka,Rural,SS (IX-X),Private Unaided (Recognized),Girls,12,11,10,10,10,1,9,11,3,9,1,11,0,0,12,12,12,12,0,7,7,7,12,12,8,5,6,11,6,11,6,2,7,5,3,8
+Karnataka,Urban,SS (IX-X),Private Unaided (Recognized),Boys,8,8,6,8,8,1,8,8,1,7,1,7,8,8,0,0,8,8,7,0,7,7,8,8,6,5,4,8,4,8,2,1,6,3,7,5
+Karnataka,Urban,HSS (VI-XII),Private Unaided (Recognized),Co-Ed,9,7,4,8,8,4,8,9,5,8,5,8,9,9,9,9,9,9,8,8,8,8,9,9,9,6,9,9,8,9,5,3,8,4,9,9
+Karnataka,Rural,UPS (VI-VIII),Private Unaided (Recognized),Boys,6,5,5,6,6,3,6,6,5,6,4,6,6,6,0,0,6,6,5,0,5,5,6,5,5,2,5,6,2,6,2,2,5,2,6,6
+Karnataka,Rural,UPS (VI-VIII),Private Unaided (Recognized),Girls,1,0,0,1,1,1,1,1,0,1,1,1,0,0,1,1,1,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Karnataka,Rural,UPS (I-VIII),Private Unaided (Recognized),Girls,2,2,1,2,2,0,2,2,0,2,1,1,0,0,2,2,2,2,0,0,0,0,2,1,2,2,2,2,2,2,1,0,2,1,2,2
+Karnataka,Urban,UPS (I-VIII),Private Unaided (Recognized),Boys,5,3,3,5,5,2,5,4,2,4,3,5,5,5,0,0,5,5,5,0,5,5,5,5,3,1,3,5,1,5,2,1,5,2,4,4
+Karnataka,Rural,SS (I-X),Private Unaided (Recognized),Girls,3,2,2,2,2,1,3,3,1,3,1,2,0,0,3,3,3,3,0,2,2,2,3,2,3,2,3,3,2,3,0,0,3,0,3,3
+Karnataka,Rural,UPS (I-VIII),Private Unaided (Recognized),Boys,3,2,2,3,3,2,3,3,1,1,2,3,3,3,0,0,3,3,2,0,2,2,3,3,2,3,2,2,0,2,0,0,3,2,2,2
+Karnataka,Rural,HSS (I-XII),Private Unaided (Recognized),Boys,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,1
+Karnataka,Urban,HSS (I-XII),Private Unaided (Recognized),Boys,2,2,1,2,2,1,2,2,2,2,1,2,2,2,0,0,2,2,1,0,1,1,2,2,1,1,1,2,1,2,0,0,1,0,1,1
+Karnataka,Rural,HSS (IX-XII),Private Unaided (Recognized),Boys,2,2,2,2,2,0,2,2,2,2,1,2,2,2,0,0,2,2,2,0,2,2,2,2,2,2,2,2,1,2,0,0,2,2,2,2
+Karnataka,Rural,SS (IX-X),Private Unaided (Recognized),Boys,3,1,3,3,3,2,2,3,2,2,1,3,3,3,0,0,3,3,3,0,3,3,3,3,3,3,3,3,1,3,0,0,2,1,2,3
+Karnataka,Urban,UPS (VI-VIII),Private Unaided (Recognized),Girls,1,1,0,1,1,0,1,1,0,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1
+Karnataka,Rural,HSS (XI-XII),Private Unaided (Recognized),Co-Ed,782,672,391,753,750,75,664,746,181,670,120,736,779,778,778,778,780,779,585,555,589,589,782,624,305,231,278,741,214,740,297,195,270,177,289,335
+Karnataka,Urban,HSS (XI-XII),Private Unaided (Recognized),Co-Ed,1718,1467,660,1673,1671,145,1463,1655,585,1510,216,1646,1698,1698,1712,1711,1715,1715,1239,1144,1261,1259,1717,1534,775,548,657,1679,504,1676,594,341,598,367,831,885
+Karnataka,Rural,PS (I-V),Private Unaided (Recognized),Co-Ed,1995,1171,1072,1673,1671,381,1447,1598,300,1249,533,1599,1989,1988,1992,1991,1993,1992,1474,1441,1485,1485,1994,1830,1413,1051,1393,1510,931,1509,509,330,1444,770,746,959
+Karnataka,Urban,PS (I-V),Private Unaided (Recognized),Co-Ed,1403,962,675,1247,1246,256,1011,1134,219,899,382,1210,1399,1398,1402,1401,1402,1401,1086,1048,1089,1089,1403,1321,1037,774,1016,1170,665,1169,312,195,1016,505,681,761
+Karnataka,Rural,SS (IX-X),Private Unaided (Recognized),Co-Ed,892,687,626,799,799,231,715,804,192,675,322,803,892,891,892,891,892,891,705,655,710,710,892,834,696,530,660,754,498,754,286,201,692,425,539,641
+Karnataka,Urban,SS (IX-X),Private Unaided (Recognized),Co-Ed,1231,979,690,1140,1140,270,987,1100,358,950,381,1087,1229,1229,1229,1229,1230,1230,1047,990,1051,1051,1231,1189,1036,774,941,1063,694,1063,333,222,975,539,876,942
+Karnataka,Urban,HSS (IX-XII),Private Unaided (Recognized),Co-Ed,64,60,44,63,63,22,61,64,38,58,27,59,64,64,64,64,64,64,59,54,59,59,64,63,59,35,54,60,40,60,14,11,60,31,59,57
+Karnataka,Rural,HSS (XI-XII),Private Unaided (Recognized),Girls,29,25,18,29,29,3,25,28,6,27,7,27,0,0,29,29,29,29,0,16,16,16,29,25,16,10,15,29,12,29,10,4,10,5,13,14
+Karnataka,Urban,PS (I-V),Private Unaided (Recognized),Boys,3,2,1,2,2,0,2,2,1,2,0,2,3,3,0,0,3,3,3,0,3,3,3,2,2,1,3,2,0,2,0,0,2,0,2,2
+Karnataka,Urban,SS (I-X),Private Unaided (Recognized),Boys,2,2,1,2,2,1,1,2,1,1,1,2,2,2,0,0,2,2,2,0,2,2,2,2,1,1,1,2,0,2,1,1,1,0,1,2
+Karnataka,Urban,SS (I-X),Private Unaided (Recognized),Girls,9,8,7,9,9,5,9,9,3,9,6,8,0,0,9,9,9,9,0,4,4,4,9,9,7,6,8,9,7,9,2,1,7,4,9,9
+Karnataka,Urban,UPS (I-VIII),Private Unaided (Recognized),Girls,18,16,7,17,17,6,17,17,5,16,12,15,0,0,18,18,18,18,0,9,9,9,18,18,16,15,16,17,10,17,5,3,15,5,17,17
+Karnataka,Rural,HSS (I-XII),Private Unaided (Recognized),Co-Ed,145,137,120,144,144,64,136,136,100,135,86,138,145,145,145,145,145,145,136,118,136,136,145,142,137,117,134,141,106,141,55,48,129,65,134,136
+Karnataka,Rural,SS (VI-X),Private Unaided (Recognized),Co-Ed,29,22,19,26,26,11,26,25,9,24,14,27,29,29,29,29,29,29,23,22,24,24,29,27,28,24,26,26,21,26,10,7,25,6,21,20
+Karnataka,Rural,UPS (VI-VIII),Private Unaided (Recognized),Co-Ed,75,46,42,69,69,18,56,65,18,53,20,66,75,75,75,75,75,75,53,48,53,53,75,71,57,46,57,58,42,58,23,16,55,38,33,43
+Karnataka,Urban,SS (IX-X),Private Unaided (Recognized),Girls,53,42,29,51,51,10,45,48,14,40,18,48,0,0,53,53,53,53,0,35,35,35,53,50,41,27,37,47,29,47,16,14,40,22,30,34
+Karnataka,Rural,HSS (IX-XII),Private Unaided (Recognized),Girls,1,1,1,1,1,0,1,1,0,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,1
+Karnataka,Urban,HSS (XI-XII),Private Unaided (Recognized),Boys,9,7,2,9,9,0,7,9,3,6,0,9,9,9,0,0,9,9,7,0,7,7,9,9,3,0,2,9,2,9,5,2,1,1,2,2
+Karnataka,Urban,SS (VI-X),Private Unaided (Recognized),Boys,3,3,2,2,2,1,3,3,1,3,1,3,3,3,0,0,3,3,3,0,3,3,3,3,3,3,3,3,1,3,1,0,3,3,1,3
+Karnataka,Urban,HSS (IX-XII),Private Unaided (Recognized),Girls,2,2,1,1,1,0,1,1,1,1,1,2,0,0,2,2,2,2,0,2,2,2,2,2,1,1,1,1,1,1,0,0,2,1,1,1
+Karnataka,Rural,PS (I-V),Private Unaided (Recognized),Girls,1,1,0,1,1,0,0,1,0,1,0,1,0,0,1,1,1,1,0,1,1,1,1,1,0,0,0,1,0,1,0,0,0,0,0,0
+Karnataka,Rural,SS (I-X),Private Unaided (Recognized),Boys,2,0,0,2,2,1,2,2,2,2,2,2,2,2,0,0,2,2,2,0,2,2,2,2,2,2,2,2,2,2,1,1,2,1,2,2
+Karnataka,Rural,HSS (VI-XII),Private Unaided (Recognized),Boys,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0,1,0,0,1,0,1,1
+Karnataka,Rural,HSS (XI-XII),Private Unaided (Recognized),Boys,3,3,3,3,3,2,3,3,3,3,3,2,3,3,0,0,3,3,3,0,3,3,3,2,3,2,2,3,2,3,0,0,3,2,2,2
+Karnataka,Urban,HSS (I-XII),Private Unaided (Recognized),Girls,5,3,1,5,5,2,4,4,3,4,0,5,0,0,5,5,5,5,0,3,3,3,5,5,5,3,3,5,3,5,1,1,5,2,5,4
+Karnataka,Urban,UPS (I-VIII),Railway School,Co-Ed,1,1,1,1,1,0,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,1,1,1,1,0,0
+Karnataka,Urban,HSS (VI-XII),Sainik School,Boys,3,3,3,3,3,2,3,3,2,3,2,3,3,3,0,0,3,3,2,0,2,2,3,2,2,2,2,3,1,3,1,1,2,1,2,2
+Karnataka,Rural,HSS (VI-XII),Sainik School,Co-Ed,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1
+Karnataka,Urban,SS (I-X),Sainik School,Co-Ed,1,0,0,1,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,0,0,0,1
+Karnataka,Urban,SS (IX-X),Sainik School,Co-Ed,2,2,0,2,2,0,1,2,0,1,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2,0,0,1,1,1,1,0,1,0,1,2
+Karnataka,Urban,UPS (I-VIII),Sainik School,Co-Ed,2,1,0,2,2,0,1,2,0,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,1,0,0,1,0,1,2
+Karnataka,Rural,PS (I-V),Social welfare Department,Co-Ed,18,9,8,18,18,10,10,13,0,10,7,14,18,18,18,18,18,18,14,14,14,14,18,18,17,9,13,16,6,16,3,3,17,11,6,7
+Karnataka,Urban,SS (VI-X),Social welfare Department,Girls,15,9,7,15,15,8,13,14,0,13,6,13,0,0,15,15,15,15,0,6,6,6,15,15,14,6,10,13,10,13,4,0,14,8,12,13
+Karnataka,Rural,SS (VI-X),Social welfare Department,Co-Ed,185,129,95,182,182,98,151,160,26,148,102,154,185,185,185,185,185,185,131,113,135,135,184,179,159,77,141,164,102,163,60,44,169,115,115,159
+Karnataka,Urban,PS (I-V),Social welfare Department,Co-Ed,6,5,4,6,6,5,5,2,1,5,3,5,6,6,6,6,6,6,4,3,4,4,6,6,6,5,5,5,2,5,2,1,5,3,2,3
+Karnataka,Urban,SS (I-X),Social welfare Department,Boys,1,0,0,1,1,1,1,1,0,0,1,1,1,1,0,0,1,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,0,0,1
+Karnataka,Rural,UPS (VI-VIII),Social welfare Department,Co-Ed,17,5,3,17,17,2,11,12,2,9,3,12,17,17,17,17,17,17,12,12,13,13,17,17,13,6,16,13,5,13,5,3,15,6,13,15
+Karnataka,Urban,UPS (VI-VIII),Social welfare Department,Co-Ed,19,6,1,18,18,7,11,9,0,11,7,18,19,19,19,19,19,19,9,10,10,10,19,19,11,8,11,14,7,14,3,1,17,7,6,10
+Karnataka,Rural,SS (VI-X),Social welfare Department,Girls,39,29,24,36,36,19,32,36,6,33,20,33,0,0,39,39,39,39,0,22,22,22,39,37,34,16,33,33,20,33,17,14,36,28,24,34
+Karnataka,Rural,SS (I-X),Social welfare Department,Co-Ed,1,1,1,1,1,1,1,1,0,0,1,1,0,0,1,1,1,1,0,0,0,0,1,1,1,0,1,1,0,1,1,1,1,0,0,0
+Karnataka,Urban,HSS (XI-XII),Social welfare Department,Girls,3,3,1,3,3,1,3,3,0,3,0,3,0,0,3,3,3,3,0,2,2,2,3,3,0,2,1,3,2,3,1,0,2,2,2,2
+Karnataka,Urban,UPS (I-VIII),Social welfare Department,Co-Ed,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,0,1,0,0,1,0,0,1
+Karnataka,Rural,SS (VI-X),Social welfare Department,Boys,4,3,2,4,4,2,4,3,1,4,2,4,4,4,0,0,4,4,3,0,3,3,4,4,3,3,3,4,1,4,2,0,4,1,2,4
+Karnataka,Urban,UPS (VI-VIII),Social welfare Department,Girls,1,1,1,1,1,1,1,1,0,0,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,0,1
+Karnataka,Rural,UPS (I-VIII),Social welfare Department,Co-Ed,1,0,0,1,1,0,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,0,1,1
+Karnataka,Urban,HSS (XI-XII),Social welfare Department,Co-Ed,3,3,2,3,3,2,1,3,0,3,1,3,3,3,3,3,3,3,3,3,3,3,3,3,2,0,2,3,1,3,2,1,2,1,2,2
+Karnataka,Urban,SS (VI-X),Social welfare Department,Co-Ed,47,21,15,41,41,14,29,29,3,26,14,40,46,46,47,47,47,47,20,23,23,23,47,44,28,12,33,33,17,33,12,10,40,22,20,26
+Karnataka,Rural,HSS (VI-XII),Social welfare Department,Girls,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+Karnataka,Rural,HSS (VI-XII),Social welfare Department,Co-Ed,16,15,13,15,15,11,15,16,3,15,8,16,16,16,16,16,16,16,13,11,13,13,16,15,14,8,13,15,11,15,7,6,16,12,10,15
+Karnataka,Rural,UPS (VI-VIII),Social welfare Department,Girls,5,2,3,5,5,1,4,4,2,4,2,4,0,0,5,5,5,5,0,3,3,3,5,5,4,3,5,4,4,4,1,1,5,2,3,5
+Karnataka,Rural,HSS (XI-XII),Social welfare Department,Co-Ed,5,5,2,5,5,2,5,5,0,5,1,4,3,3,5,5,5,5,2,3,3,3,5,4,3,0,2,5,2,5,1,0,2,2,1,2
+Karnataka,Urban,PS (I-V),Tribal Welfare Department,Co-Ed,27,19,10,26,26,16,23,24,3,21,15,22,27,27,27,27,27,27,15,15,15,15,27,26,26,13,18,24,15,24,11,6,24,16,11,14
+Karnataka,Urban,SS (VI-X),Tribal Welfare Department,Girls,18,12,9,16,16,7,12,15,2,12,8,14,0,0,18,18,18,18,0,12,12,12,18,16,14,11,15,14,8,14,5,3,14,8,15,15
+Karnataka,Urban,UPS (VI-VIII),Tribal Welfare Department,Girls,1,1,0,0,0,0,1,0,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,1,1,0,0,1,0,1,0,0,1,1,1,0
+Karnataka,Urban,SS (I-X),Tribal Welfare Department,Girls,2,2,2,2,2,0,1,1,0,1,1,2,0,0,2,2,2,2,0,0,0,0,2,2,1,1,1,1,0,1,0,0,2,2,1,0
+Karnataka,Rural,PS (I-V),Tribal Welfare Department,Girls,1,0,0,0,0,0,0,1,0,1,0,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,1,0,0,0
+Karnataka,Urban,HSS (XI-XII),Tribal Welfare Department,Girls,2,2,2,2,2,1,2,2,0,2,1,1,0,0,2,2,2,2,0,2,2,2,2,1,2,2,2,2,1,2,0,0,1,1,2,2
+Karnataka,Rural,UPS (I-VIII),Tribal Welfare Department,Co-Ed,36,25,26,35,35,18,29,29,3,28,28,36,36,36,36,36,36,36,20,16,20,20,36,35,27,14,31,34,20,34,17,10,35,26,6,26
+Karnataka,Urban,PS (I-V),Tribal Welfare Department,Boys,1,1,0,1,1,1,1,1,0,1,1,1,1,1,0,0,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1
+Karnataka,Rural,SS (VI-X),Tribal Welfare Department,Girls,98,77,63,95,95,51,88,89,17,86,59,73,0,0,98,98,98,98,0,69,69,69,98,92,83,49,77,88,55,88,34,28,86,60,70,83
+Karnataka,Rural,SS (VI-X),Tribal Welfare Department,Co-Ed,321,217,179,295,295,151,253,257,49,247,155,251,319,319,321,321,321,321,233,208,237,237,321,299,280,157,256,268,156,268,97,69,282,173,212,267
+Karnataka,Urban,SS (VI-X),Tribal Welfare Department,Co-Ed,100,47,32,82,82,30,69,71,13,64,35,88,99,99,100,100,100,100,65,65,67,67,100,92,76,47,75,76,42,76,23,15,85,51,46,71
+Karnataka,Rural,HSS (VI-XII),Tribal Welfare Department,Co-Ed,33,29,26,32,32,27,31,30,9,30,26,28,33,33,33,33,33,33,26,25,26,26,33,32,30,20,29,31,23,31,15,10,32,15,22,27
+Karnataka,Urban,HSS (VI-XII),Tribal Welfare Department,Co-Ed,5,4,2,5,5,4,4,5,1,4,4,3,5,5,5,5,5,5,4,4,4,4,5,5,5,3,3,4,4,4,1,0,4,2,3,4
+Karnataka,Urban,HSS (XI-XII),Tribal Welfare Department,Co-Ed,13,8,5,11,11,4,9,9,0,9,3,12,13,13,13,13,13,13,9,8,9,9,13,12,8,7,6,10,2,10,2,1,6,5,7,8
+Karnataka,Rural,PS (I-V),Tribal Welfare Department,Co-Ed,77,43,47,72,72,46,60,57,10,49,42,66,77,77,77,77,77,77,33,31,34,34,76,73,67,46,52,67,40,66,34,21,65,37,13,42
+Karnataka,Rural,UPS (VI-VIII),Tribal Welfare Department,Co-Ed,26,13,6,24,24,5,19,16,5,19,8,13,26,26,26,26,26,26,15,15,16,16,26,26,19,9,19,21,9,21,2,0,23,10,13,20
+Karnataka,Rural,SS (VI-X),Tribal Welfare Department,Boys,2,2,2,2,2,0,2,2,1,2,1,2,2,2,0,0,2,1,2,0,2,1,2,2,2,2,2,2,2,1,0,0,2,2,2,2
+Karnataka,Urban,UPS (VI-VIII),Tribal Welfare Department,Co-Ed,24,6,5,13,13,1,9,12,2,6,6,21,24,24,24,24,24,24,19,19,19,19,24,22,14,13,16,9,8,9,3,3,15,4,8,13
+Karnataka,Urban,SS (I-X),Tribal Welfare Department,Boys,1,1,0,1,1,1,1,1,0,1,0,1,1,1,0,0,1,1,1,0,1,1,1,1,1,0,1,1,0,1,0,0,1,1,0,1
+Karnataka,Rural,UPS (VI-VIII),Tribal Welfare Department,Girls,9,6,1,7,7,2,5,5,0,5,1,3,0,0,9,9,9,9,0,5,5,5,9,9,5,0,6,6,0,6,0,0,7,2,6,8
+Karnataka,Urban,UPS (I-VIII),Tribal Welfare Department,Boys,1,1,1,1,1,1,1,1,0,1,0,1,1,1,0,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,1,1,1
+Karnataka,Urban,SS (I-X),Tribal Welfare Department,Co-Ed,3,3,1,2,2,1,2,3,0,2,1,3,3,3,3,3,3,3,3,3,3,3,3,3,2,1,1,2,1,2,1,0,3,3,1,2
+Karnataka,Urban,HSS (VI-XII),Tribal Welfare Department,Girls,1,0,0,1,1,0,1,1,0,1,0,1,0,0,1,1,1,1,0,0,0,0,1,1,1,0,0,1,1,1,0,0,1,0,1,1
+Karnataka,Rural,HSS (XI-XII),Tribal Welfare Department,Girls,3,1,1,2,2,2,2,3,0,2,1,3,0,0,3,3,3,3,0,1,1,1,3,1,3,3,3,3,3,3,1,1,2,2,2,1
+Karnataka,Rural,HSS (XI-XII),Tribal Welfare Department,Co-Ed,14,13,6,14,14,4,12,14,2,13,1,13,14,14,14,14,14,14,14,9,14,14,14,9,6,2,4,14,3,14,9,8,6,4,7,8
+Karnataka,Rural,SS (I-X),Tribal Welfare Department,Co-Ed,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+Karnataka,Urban,SS (VI-X),Tribal Welfare Department,Boys,2,2,2,2,2,1,2,2,0,2,2,1,2,2,0,0,2,2,2,0,2,2,2,2,2,0,1,2,0,2,0,0,2,2,1,2
+Karnataka,Rural,HSS (VI-XII),Tribal Welfare Department,Girls,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1
+Karnataka,Urban,UPS (I-VIII),Tribal Welfare Department,Co-Ed,2,2,1,2,2,1,2,2,0,2,1,2,2,2,2,2,2,2,0,0,0,0,2,2,2,1,1,2,1,2,2,1,2,2,2,2
+Karnataka,Rural,SS (IX-X),Tribal Welfare Department,Co-Ed,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+Karnataka,Rural,UPS (I-VIII),Unrecognized,Co-Ed,2,2,1,2,2,0,2,2,0,2,1,2,2,2,2,2,2,2,1,1,1,1,2,2,1,0,1,2,1,2,0,0,1,1,0,1
+Karnataka,Urban,PS (I-V),Unrecognized,Co-Ed,3,2,1,3,3,2,2,3,1,3,0,3,3,3,3,3,3,3,3,3,3,3,3,3,2,1,1,2,1,2,0,0,1,1,2,0
+Karnataka,Urban,SS (I-X),Unrecognized,Co-Ed,1,1,0,1,1,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,0,1,1,1,1
+Total,,,,,77166,35589,41469,75465,75376,13853,60029,71657,10644,52180,28514,65838,74797,74474,76333,76091,77038,76814,54601,53351,57558,57483,77036,73107,48787,35086,47264,63202,31928,62928,37936,30465,71749,44010,19020,37323
