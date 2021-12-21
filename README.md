@@ -19,7 +19,7 @@ Data was collected from the **Unified District Information System for Education*
 
 ## Data Visualization
 
-Objective 1: Analyzing the district-wise distribution of school categories to find the most successful one in terms of student enrollment.
+**Objective 1: Analyzing the district-wise distribution of school categories to find the most successful one in terms of student enrollment.
 
 <img width="539" alt="rename_screenshot" src="images/4.png">
 
@@ -29,16 +29,16 @@ Light Blue - Private Unaided (Recognized)
 
 <img width="539" alt="rename_screenshot" src="images/3.png">
 
-Objective 2: Analyzing Boys vs Girls education rate.
+**Objective 2: Analyzing Boys vs Girls education rate.**
 
 In all 34 districts, the strength of boys is significantly more than strength of girls in schools from 2012 to 2020 as the population of boys is higher than that of girls in Karnataka. But willingness of boys and girls to study in all districts is almost equal except in the year 2016-17 where boys were more willing to study than girls but it gradually picked up in later years.
 
-Objective 3:  Finding out the trend in the continuity of education for girls in various districts.
+**Objective 3:  Finding out the trend in the continuity of education for girls in various districts.**
 
 As we see here, the schools under the social welfare department have opened the way for SC/ST girls to get a quality education easily without any bias against them in Hassan. There has been an increase from 3.465 (log-transformed value) in 2019 to 5.424 (log-transformed value) in 2020 alone in this department. However, the female student count saw a significant drop in the tribal welfare schools of Hassan in 2020 owing to the pandemic. Department of Education saw such a drop too, although not as high as compared to the tribal welfare department. 
 In districts like Koppal, the Social Welfare department has had a consistent drop in female student enrollment since 2012-13. Department of Education, on the other hand, has seen a steady increase despite the pandemic. Almost all the main school management models ('Central Govt', 'Department of Education', 'Government Aided', 'Kendriya Vidyalaya / Central School', 'Private Unaided (Recognized), 'Madarsa recognized (by Wakf board/Madarsa Board)')  have seen a steady count of female students from the years 2019 to 2020 too. Karnataka has announced it will provide free education for girls from kindergarten to postgraduate level, in a bid to raise women’s place in society. The initiative is estimated to encourage 3,70,000 girls to gain a high level of education. The government expects around 18 lakh students whose parent’s income would be less than Rs 10 lakh to opt for this scheme and are planning to earmark ₹110 crores.  They get boarding facilities for each student at the rate of Rs. 1400/- per month for 10 months,  Free Accommodation, Free Uniform, Shoes & Socks, Free Text Books & Stationery, etc.
 
-Objective 4: Understanding the population distribution between rural and urban areas and how one is better than the other.
+**Objective 4: Understanding the population distribution between rural and urban areas and how one is better than the other.
 
 Karnataka consists of 70 urban and 154 rural assembly constituencies. While nearly half of the urban constituencies are in Bengaluru city (28), the rest are spread across seven city corporations - 43 city municipal councils (CMCs), 65 town municipal councils (TMCs) and 92 town panchayats (TPs). 
  In the Census of India 2011, the definition of urban area adopted is as follows:
